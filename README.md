@@ -1,3 +1,14 @@
+https://newmkka.tistory.com/entry/Vite%EC%99%80-React%EB%A1%9C-GitHub-Pages%EC%97%90-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0
+vite react 프로젝트 배포하기
+
+git push -f origin main 강제로 덮어쓰기
+git remote remove origin 리포지토리 이름 잘못썼을 때
+git status 커밋 확인하는 거
+git add vite.config.ts
+git commit -m "update config and packages" 커밋 안 된 vite.config.ts 커밋하는 거
+
+#####
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
